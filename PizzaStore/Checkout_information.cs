@@ -84,5 +84,10 @@ namespace PizzaStore
             CardInfo cardInfo = new CardInfo();
             cardInfo.Show();
         }
+
+        private void checkBox3_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

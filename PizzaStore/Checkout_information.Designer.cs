@@ -343,9 +343,9 @@
             this.checkBox2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(92)))), ((int)(((byte)(235)))), ((int)(((byte)(192)))));
             this.checkBox2.Location = new System.Drawing.Point(1519, 702);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(102, 25);
+            this.checkBox2.Size = new System.Drawing.Size(63, 25);
             this.checkBox2.TabIndex = 86;
-            this.checkBox2.Text = "checkBox2";
+            this.checkBox2.Text = "Cash";
             this.checkBox2.UseVisualStyleBackColor = true;
             // 
             // checkBox3
@@ -355,10 +355,11 @@
             this.checkBox3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(92)))), ((int)(((byte)(235)))), ((int)(((byte)(192)))));
             this.checkBox3.Location = new System.Drawing.Point(1348, 702);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(102, 25);
+            this.checkBox3.Size = new System.Drawing.Size(71, 25);
             this.checkBox3.TabIndex = 87;
-            this.checkBox3.Text = "checkBox3";
+            this.checkBox3.Text = "Check";
             this.checkBox3.UseVisualStyleBackColor = true;
+            this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox3_CheckedChanged);
             // 
             // linkLabel10
             // 
