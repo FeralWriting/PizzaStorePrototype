@@ -44,7 +44,7 @@ This page would allow staff to change their account information or delete their 
 
 ### Orders in Queue
 
-This page allows employees to see which orders have been recieved and the status of said orders.
+This page allows employees to see which orders have been received and the status of said orders.
 
 ### About Us/Customer Service
 
