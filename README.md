@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a prototype of a website for a pizza delivery service. This would be a website for customers to order pizzas, as well as managers and staff to receive those orders. This project is just a basic layout of the potential website and contains no backend to actually store and process information. All buttons that go between pages are functional and allow users to navigate the site easily. This was a project done for my Introduction to Software Engineering class. This project contains C# and gave me experience with Visual Studio and C# GUIs. The site can be viewed by downloading [PizzaStore.zip](https://github.com/FeralWriting/PizzaStorePrototype/files/8657263/PizzaStore.zip), extracting the files, and running the application.
+This is a prototype of a website for a pizza delivery service. This would be a website for customers to order pizzas, as well as managers and staff to receive those orders. This project is just a basic layout of the potential website and contains no backend to actually store and process information. All buttons that go between pages are functional and allow users to navigate the site easily. This was a project done for my Introduction to Software Engineering class. This project contains C# and gave me experience with Visual Studio and C# GUIs.
 
 ## Features
 
